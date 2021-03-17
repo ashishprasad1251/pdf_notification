@@ -10,7 +10,7 @@ cd pdf_notification
 
 # Install requirement
 ```Python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Run the code 
