@@ -1,8 +1,15 @@
-#clone the repository
+# Clone the repository
+```Python
 git clone https://github.com/ashishprasad1251/pdf_notification.git
-
-#install requirement
+```
+# Install requirement
+```Python
 pip install requirements.txt
+```
 
-#Download the pdf files
+
+# Run the code 
+```Python
 python main.py
+```
+
